@@ -1,1 +1,1 @@
-console.lg("hello world");
+console.lg('This code has error');
