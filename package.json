@@ -1,0 +1,20 @@
+{
+    "name": "sample-project",
+    "version": "0.1.0",
+    "private": true,
+    "description": "for executing tasks",
+    "activationEvents": [
+        "*"
+    ],
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "vsce": {
+        "allowMissingRepository": true,
+        "allowStarActivation": true
+    },
+    "repository": {},
+    "scripts": {
+        "incorrect-cmd-command": "nmp run build"
+    }
+}
